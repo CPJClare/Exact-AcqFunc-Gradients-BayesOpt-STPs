@@ -1,6 +1,8 @@
 # Exact-AcqFunc-Gradients-BayesOpt-STPs
 Thesis chapter, UK publisher: "Exact acquisition function gradients for Bayesian optimisation with Student's-t Processes".
 
+Includes all proposed thesis chapter experiments i.e. Python code, results and graphs.
+
 Each of the Jupyter notebooks herein should run "out-of-the-box" in Google Colab.
 
 https://research.google.com/colaboratory/faq.html
